@@ -1,0 +1,1 @@
+Domains Checker = 1.0 TEST [VALID]
